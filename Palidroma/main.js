@@ -1,6 +1,6 @@
 // declarations
-let check = document.getElementById("check");
-let user_word = document.getElementById("input");
+let check = document.getElementById("check"); //button check
+let user_word = document.getElementById("input");   //user's word in input
 
 
 //click check button

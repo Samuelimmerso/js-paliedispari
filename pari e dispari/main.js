@@ -1,8 +1,7 @@
 // declaration
-let inputN = document.getElementById("number");
-let even = document.getElementById("even");
-let odd = document.getElementById("odd");
-let print = document.getElementById("print");
+let inputN = document.getElementById("number");  // numbers in input
+let even = document.getElementById("even");     // click even
+let odd = document.getElementById("odd");       // click odd
 
 
 // click even
